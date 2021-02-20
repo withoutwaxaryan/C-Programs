@@ -1,2 +1,2 @@
 # C-Programs
-A list of Programs written in C to work on my coding skills.
+Covers up the basics of programming including OOPS in Python, C++ and C.
